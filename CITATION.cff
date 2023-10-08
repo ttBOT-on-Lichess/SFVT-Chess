@@ -9,7 +9,7 @@ message: >-
 type: software
 authors:
   - name: The SFVT-Chess developers (see AUTHORS file)
-repository-code: 'https://github.com/ttBOT-on-Lichess/Stockfish'
+repository-code: 'https://github.com/ttBOT-on-Lichess/SFVT-Chess'
 url: 'none'
 repository-artifact: 'none'
 abstract: SFVT-Chess is a free and strong UCI chess engine derivative from Stockfish.
